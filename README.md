@@ -1,2 +1,2 @@
 # advice-generator-app
-This project has been developed by Arwa
+This project has been developed by Rewaaf
